@@ -1,0 +1,2 @@
+# Android Studio Lemonade App
+Exercise from ["Practice: Click behavior"](https://developer.android.com/codelabs/basic-android-kotlin-compose-button-click-practice-problem) codelab from the ["Add a button to an app"](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2) pathway from ["Android Basics with Compose"](https://developer.android.com/courses/android-basics-compose/course) training from the Google Developers Program.
